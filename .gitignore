@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Encryption-Decryption (Kotlin)/*
+!/Encryption-Decryption (Kotlin)/task/
+/Encryption-Decryption (Kotlin)/task/*
+!/Encryption-Decryption (Kotlin)/task/src
+!/Encryption-Decryption (Kotlin)/task/output.txt
